@@ -1,6 +1,4 @@
-Here’s a clean and professional **README.md** for your `ChatBot-AI-Agent` project:
 
----
 
 ## 🤖 ChatBot AI Agent (Ollama + Mistral)
 
@@ -119,3 +117,4 @@ This project is licensed under the **MIT License**.
 ---
 
 Would you like me to also **add some badges (Python, Ollama, License, Stars)** at the top of your README to make it look even better? (like a professional open-source project)
+
